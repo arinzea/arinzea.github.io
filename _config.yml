@@ -1,3 +1,4 @@
-name: My Title
+theme: jekyll-theme-cayman
+title: Welcome to Arinze's homepage  
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
